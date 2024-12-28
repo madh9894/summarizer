@@ -1,4 +1,4 @@
-# Microservices Project
+# Microservices Project - Text summarizer
 
 ## Introduction
 This project demonstrates the implementation of a microservices-based architecture. It includes services that communicate through defined interfaces, ensuring modularity and scalability. The application is containerized using Docker for ease of deployment.
