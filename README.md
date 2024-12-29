@@ -66,3 +66,9 @@ Contributions are welcome! To contribute:
 ## Contact
 For questions or suggestions, feel free to reach out.
 
+## About
+This project implements a text summarization microservice, which processes long text and returns concise summaries. The project aims to simplify text processing tasks and can be extended to handle additional NLP tasks such as sentiment analysis or keyword extraction.
+## Docker and Python Components
+Dockerfile: Contains the configuration for containerizing the application to ensure that it works seamlessly across different environments.
+Docker Compose: Manages the orchestration of the services and ensures they can communicate with each other.
+
